@@ -1,1 +1,1 @@
-simple snake game coded in Python from online tutorial.
+Simple snake game coded in Python from online tutorial.
